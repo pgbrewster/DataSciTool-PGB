@@ -1,2 +1,2 @@
-## DataSciTool-PGB
-PB's first ever GitHub repository, created July 2015
+## datasciencecoursera
+PB's first ever GitHub repository, created July 2015. 
